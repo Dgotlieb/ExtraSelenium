@@ -7,7 +7,6 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import java.util.concurrent.TimeUnit;
 
 import static org.openqa.selenium.support.locators.RelativeLocator.with;
-import static org.openqa.selenium.support.locators.RelativeLocator.withTagName;
 
 public class RelativeLocatorTest {
     private static ChromeDriver driver;
